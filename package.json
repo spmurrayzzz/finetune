@@ -1,0 +1,19 @@
+{
+  "name": "finetune",
+  "version": "0.0.0",
+  "description": "Scratch repo for storing configs and code related to ML finetuning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spmurrayzzz/finetune.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spmurrayzzz/finetune/issues"
+  },
+  "homepage": "https://github.com/spmurrayzzz/finetune#readme"
+}
